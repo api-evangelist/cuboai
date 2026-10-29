@@ -64,5 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cuboai is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/cuboai
+CuboAi provides AI‑enhanced baby monitoring solutions that combine high‑resolution video, real‑time safety alerts, sleep tracking, health monitoring, and memory capture. Their smart monitor and sensor pad use computer‑vision and motion detection to notify parents of potential hazards, breathing irregularities, and sleep patterns, while a companion app stores moments and health data securely. The company emphasizes proactive safety, privacy, and seamless integration across devices, targeting modern families seeking peace of mind through advanced technology.
+
+**Areas:** Company · Baby · Monitoring · Artificial Intelligence · Health
+
+## Cuboai on APIs.io
+
+Everything profiled for Cuboai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cuboai/](https://apis.io/providers/cuboai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cuboai Domain Security](https://apis.io/security/cuboai/cuboai-domain-security/)
+- [Cuboai Vulnerability Disclosure](https://apis.io/security/cuboai/cuboai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://us.getcubo.com)
+- [Documentation](https://us.getcubo.com/pages/cuboai-about-us)
+- [Support](https://help.getcubo.com/hc/en-us)
+- [Blog](https://blog.getcubo.com/)
+- [Security](https://us.getcubo.com/pages/security)
+- [Privacy policy](https://us.getcubo.com/pages/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 15.5** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.0 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 10.5 |
+
+**Agent readiness 6.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | platform (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 15.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cuboai/](https://apis.io/providers/cuboai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cuboai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cuboai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
